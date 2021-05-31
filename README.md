@@ -14,12 +14,12 @@ Python scripts that process BFM traces and compares the results with different p
 
 The external library versions used are:
 
-scipy==1.5.0
-seaborn==0.10.1
-matplotlib==3.2.2
-numpy==1.18.5
-tqdm==4.47.0
-pandas==1.0.5
+scipy==1.5.0  
+seaborn==0.10.1  
+matplotlib==3.2.2  
+numpy==1.18.5  
+tqdm==4.47.0  
+pandas==1.0.5  
 p_tqdm==1.3.3 - Only required to use parallel mapping in the ABC-SMC sampling
 
 ## Author
